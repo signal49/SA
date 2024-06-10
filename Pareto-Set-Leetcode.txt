@@ -1,0 +1,75 @@
+Arrays & Hashing
+-----------------
+1 - Contains Duplicate
+2 - Valid Anagram
+3 - Two Sum
+4 - Group Anagrams
+5 - Top K Frequent Elements
+6 - Valid Sudoku
+7 - Product of Array Except Self
+8 - Longest Consecutive Sequence
+
+Two Pointers
+------------
+9 - Valid Palindrome
+10 - Two Sum II Input Array Is Sortted
+11 - 3Sum
+12 - Container With Most Water
+
+Sliding Window
+---------------
+13 - Best Time to Buy And Sell Stock
+14 - Longest Substring Without Repeating Characters
+15 - Longest Repeating Character Replacement
+
+Stack
+-----
+16 - Valid Parentheses
+17 - Min Stack
+18 - Daily Temperatures
+
+Binary Search
+--------------
+19 - Binary Search
+20 - Find Minimum In Rotated Sorted Array
+21 - Search In Rotated Sorted Array
+
+Linked List
+-------------
+19 - Reverse Linked List
+20 - Merge Two Sorted Lists
+21 - Reorder List
+22 - Remove Nth Node From End of List
+20 - Linked List Cycle
+21 - LRU Cache
+
+Trees
+-------
+22 - Invert Binary Tree
+23 - Maximum Depth of Binary Tree
+24 - Diameter of Binary Tree
+25 - Balanced Binary Tree
+26 - Same Tree
+27 - Subtree of Another Tree
+28 - Lowest Common Ancester of a Binary Search Tree
+29 - Binary Tree Level Order Traversal
+30 - Binary Tree Right Side View
+31 - Count Good Nodes In Binary Tree
+32 - Validate Binary Search Tree
+31 - Kth Smallest Element In a Bst
+
+Heap/Priority Queue
+-------------------
+32 - Kth Largest Element In a Stream
+33 - Last Stone Weight
+34 - Kth Largest Element In An Array
+
+Graphs
+---------
+35 - Number of Islands
+37 - Max Area of Island
+38 - Clone Graph
+39 - Pacific Atlantic Water Flow
+40 - Surrounded Regions
+41 - Course Schedule
+42 - Course Schedule II
